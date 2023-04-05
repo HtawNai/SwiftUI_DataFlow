@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct PlayerBindingView: View {
-    @State var name : String = "Messi"
+    @State var name : String = "Messi_Ronal"
     var body: some View {
         VStack(spacing: 10) {
             Image(systemName: "Soccer")
